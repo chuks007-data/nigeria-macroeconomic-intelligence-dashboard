@@ -1,0 +1,4 @@
+*.pbix~
+*.pbit
+~$*.xlsx
+.DS_Store
